@@ -1,0 +1,8 @@
+Start
+Set Sum to 0
+Inpu Value n
+if statement 
+check n<o
+If true print sum
+else add n to sum
+End
