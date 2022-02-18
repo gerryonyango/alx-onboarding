@@ -1,0 +1,10 @@
+start
+Enter values
+Value = int n
+n = a, b, c
+sort (n, n+3);
+for (int i = 0; i<3; i++)
+Count a[i] << " ";
+Return 0
+
+Display Int n
